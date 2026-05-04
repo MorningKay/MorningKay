@@ -11,78 +11,36 @@
 
 ---
 
-## byte bunny profile
+## About Me
 
-- name: MorningKay
-- species: Byte Bunny
-- class: CS undergrad
-- major interests: NLP / ML / cute little ideas
-- mood: fluffy and curious
-- hp: 72/100
-- mana: 90% coffee
-- current area: tiny lab / coursework / experiments
+I am a computer science undergraduate interested in NLP, machine learning, and small but meaningful projects.  
+This profile mainly serves as a simple entry point to some of my repositories, including coursework, notes, experiments, and personal setup files.
 
-## bunny quests
+## Repository Highlights
 
-- main quest: learn more about NLP and build fun things
-- side quest: make course projects cuter than they need to be
-- hidden quest: turn chaos into neat little repositories
-- final boss: deadlines
+- **[Iceberg](https://github.com/MorningKay/Iceberg)**  
+  A repository related to empathy-oriented dialogue experiments and ideas.
 
-## bunny skills
+- **[cs336-assignment1-basics](https://github.com/MorningKay/cs336-assignment1-basics)**  
+  Notes, code, and practice work for the CS336 Assignment 1 basics, including tokenizer and language model related content.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-favorite%20carrot-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-skill%20unlocked-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LaTeX-neat%20notes-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coursework-bunny%20missions-FF8C00?style=for-the-badge" />
-</p>
+- **[Calculus-Note](https://github.com/MorningKay/Calculus-Note)**  
+  A collection of calculus notes and study materials, organized for review and reference.
 
-## little burrow of projects
+- **[dotfiles](https://github.com/MorningKay/dotfiles)**  
+  Personal configuration files and small scripts for my development environment and daily workflow.
 
-- **EmpDia-Iceberg** — a tiny empathy dialogue lab
-- **Calculus-Note** — math notes arranged with suspicious care
-- **cs336-assignment1-basics** — tokenizer and language model basics from CS336
-- **compiler** — a course project stitched together with effort and determination
+## What You Can Find Here
 
-## bunny burrow terminal
+Most of my repositories fall into a few categories:
 
-```txt
-> bunny_name: Byte Bunny
-> status: awake
-> favorite food: commits
-> least favorite thing: mysterious bugs
-> current mission: survive coursework and build tiny fun things
-> inventory: Python, C, LaTeX, curiosity, unfinished ideas
-```
+- **Coursework**: assignments, experiments, and course-related code
+- **Notes**: study notes and organized learning materials
+- **Projects**: small research explorations and practical implementations
+- **Configs**: personal environment setup and utility scripts
 
-## carrot basket
+## Current Focus
 
-- [EmpDia-Iceberg](https://github.com/MorningKay/EmpDia-Iceberg)  
-  a small lab for empathy-flavored dialogue experiments
-
-- [Calculus-Note](https://github.com/MorningKay/Calculus-Note)  
-  carefully organized math notes for future me
-
-- [cs336-assignment1-basics](https://github.com/MorningKay/cs336-assignment1-basics)  
-  CS336 assignment work, tokenizers, and language model basics
-
-- [compiler](https://github.com/MorningKay/compiler)  
-  a course artifact forged with patience, confusion, and persistence
-
-## daily bunny log
-
-- fed with: commits
-- healed by: successful runs
-- startled by: syntax errors
-- currently nibbling on: new ideas
-
-## tiny bunny rules
-
-```txt
-if lost:
-    read
-    think
-    code
-    retry
-```
+- Learning more about NLP and machine learning
+- Organizing coursework and notes into clearer repositories
+- Building small projects and experiments step by step
