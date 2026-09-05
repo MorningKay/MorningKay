@@ -2032,25 +2032,25 @@
     <text x="408" y="63" fill="#cdd6f4" font-weight="600">morningkay@github</text>
     <text x="560" y="63" class="muted">------------------------------------------------------------</text>
 
-    <path class="leader" d="M625 92H835M625 112H835M625 132H835M625 152H835M625 172H835M625 202H835M625 222H835M625 242H835M625 272H835M625 292H835M625 346H835M625 366H835M625 386H835M625 406H835"/>
-    <text x="408" y="96" class="key">OS</text><text x="602" y="96" class="muted">:</text><text x="1074" y="96" text-anchor="end" class="value">macOS, NixOS</text>
-    <text x="408" y="116" class="key">Uptime</text><text x="602" y="116" class="muted">:</text><text x="1074" y="116" text-anchor="end" class="value">21 years</text>
-    <text x="408" y="136" class="key">Host</text><text x="602" y="136" class="muted">:</text><text x="1074" y="136" text-anchor="end" class="value">Tianjin Tiangong University</text>
-    <text x="408" y="156" class="key">Kernel</text><text x="602" y="156" class="muted">:</text><text x="1074" y="156" text-anchor="end" class="value">CS Undergraduate</text>
-    <text x="408" y="176" class="key">IDE</text><text x="602" y="176" class="muted">:</text><text x="1074" y="176" text-anchor="end" class="value">VS Code, Neovim</text>
+    <path class="leader" d="M443 92H963M477 112H997M460 132H837M477 152H929M451 172H938M604 202H1013M578 222H921M544 242H929M561 272H946M561 292H954M544 346H878M527 366H845M485 386H895M435 406H954"/>
+    <text x="408" y="96"><tspan class="key">OS</tspan><tspan class="muted">:</tspan></text><text x="1074" y="96" text-anchor="end" class="value">macOS, NixOS</text>
+    <text x="408" y="116"><tspan class="key">Uptime</tspan><tspan class="muted">:</tspan></text><text x="1074" y="116" text-anchor="end" class="value">21 years</text>
+    <text x="408" y="136"><tspan class="key">Host</tspan><tspan class="muted">:</tspan></text><text x="1074" y="136" text-anchor="end" class="value">Tianjin Tiangong University</text>
+    <text x="408" y="156"><tspan class="key">Kernel</tspan><tspan class="muted">:</tspan></text><text x="1074" y="156" text-anchor="end" class="value">CS Undergraduate</text>
+    <text x="408" y="176"><tspan class="key">IDE</tspan><tspan class="muted">:</tspan></text><text x="1074" y="176" text-anchor="end" class="value">VS Code, Neovim</text>
 
-    <text x="408" y="206" class="key">Languages.Programming</text><text x="602" y="206" class="muted">:</text><text x="1074" y="206" text-anchor="end" class="value">Python</text>
-    <text x="408" y="226" class="key">Languages.Computer</text><text x="602" y="226" class="muted">:</text><text x="1074" y="226" text-anchor="end" class="value">LaTeX, YAML, JSON</text>
-    <text x="408" y="246" class="key">Languages.Real</text><text x="602" y="246" class="muted">:</text><text x="1074" y="246" text-anchor="end" class="value">Chinese, English</text>
+    <text x="408" y="206"><tspan class="key">Languages.Programming</tspan><tspan class="muted">:</tspan></text><text x="1074" y="206" text-anchor="end" class="value">Python</text>
+    <text x="408" y="226"><tspan class="key">Languages.Computer</tspan><tspan class="muted">:</tspan></text><text x="1074" y="226" text-anchor="end" class="value">LaTeX, YAML, JSON</text>
+    <text x="408" y="246"><tspan class="key">Languages.Real</tspan><tspan class="muted">:</tspan></text><text x="1074" y="246" text-anchor="end" class="value">Chinese, English</text>
 
-    <text x="408" y="276" class="key">Hobbies.Software</text><text x="602" y="276" class="muted">:</text><text x="1074" y="276" text-anchor="end" class="value">Genshin Impact</text>
-    <text x="408" y="296" class="key">Hobbies.Hardware</text><text x="602" y="296" class="muted">:</text><text x="1074" y="296" text-anchor="end" class="value">None detected</text>
+    <text x="408" y="276"><tspan class="key">Hobbies.Software</tspan><tspan class="muted">:</tspan></text><text x="1074" y="276" text-anchor="end" class="value">Genshin Impact</text>
+    <text x="408" y="296"><tspan class="key">Hobbies.Hardware</tspan><tspan class="muted">:</tspan></text><text x="1074" y="296" text-anchor="end" class="value">None detected</text>
 
     <text x="408" y="326" class="section">- Contact </text><text x="500" y="326" class="muted">-------------------------------------------------------------------</text>
-    <text x="408" y="350" class="key">Email.Personal</text><text x="602" y="350" class="muted">:</text><text x="1074" y="350" text-anchor="end" class="value">morningkay37@gmail.com</text>
-    <text x="408" y="370" class="key">Email.School</text><text x="602" y="370" class="muted">:</text><text x="1074" y="370" text-anchor="end" class="value">2311530219@tiangong.edu.cn</text>
-    <text x="408" y="390" class="key">Website</text><text x="602" y="390" class="muted">:</text><text x="1074" y="390" text-anchor="end" class="value">morningkay.github.io</text>
-    <text x="408" y="410" class="key">X</text><text x="602" y="410" class="muted">:</text><text x="1074" y="410" text-anchor="end" class="value">@MorningKay37</text>
+    <text x="408" y="350"><tspan class="key">Email.Personal</tspan><tspan class="muted">:</tspan></text><text x="1074" y="350" text-anchor="end" class="value">morningkay37@gmail.com</text>
+    <text x="408" y="370"><tspan class="key">Email.School</tspan><tspan class="muted">:</tspan></text><text x="1074" y="370" text-anchor="end" class="value">2311530219@tiangong.edu.cn</text>
+    <text x="408" y="390"><tspan class="key">Website</tspan><tspan class="muted">:</tspan></text><text x="1074" y="390" text-anchor="end" class="value">morningkay.github.io</text>
+    <text x="408" y="410"><tspan class="key">X</tspan><tspan class="muted">:</tspan></text><text x="1074" y="410" text-anchor="end" class="value">@MorningKay37</text>
 
     <text x="408" y="440" class="section">- GitHub Stats </text><text x="535" y="440" class="muted">--------------------------------------------------------------</text>
     <text x="408" y="464"><tspan class="key">Repos</tspan><tspan class="muted">:</tspan><tspan id="stat-repos" class="value" dx="7">11</tspan></text>
