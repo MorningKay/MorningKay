@@ -1,0 +1,33 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update SVG values
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update-github-stats.py
+
+      - name: Commit changed statistics
+        run: |
+          if git diff --quiet -- dark_mode.svg light_mode.svg; then
+            echo "GitHub statistics are already current."
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add dark_mode.svg light_mode.svg
+          git commit -m "chore: update GitHub stats"
+          git push
